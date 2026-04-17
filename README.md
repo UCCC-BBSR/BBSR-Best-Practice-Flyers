@@ -12,19 +12,19 @@ Welcome to the  repository for best practices flyers developed by the **CU Cance
 
 ## 🧬 Available Best Practice Guides
 
-### [RNA Sequencing (Bulk RNA-seq)](./RNAseq.pdf?raw=true)
+### [RNA Sequencing (Bulk RNA-seq)](./RNAseq.pdf)
 Comprehensive guidance for bulk RNA sequencing experiments, covering experimental design, library preparation considerations, sequencing depth recommendations, and differential expression analysis approaches. Ideal for transcriptome profiling, gene expression studies, and biomarker discovery.
 
-### [Single-Cell RNA Sequencing (scRNA-seq)](./scRNAseq.pdf?raw=true)
+### [Single-Cell RNA Sequencing (scRNA-seq)](./scRNAseq.pdf)
 Essential best practices for single-cell RNA sequencing projects, including cell capture strategies, quality control considerations, recommended read depths, and computational analysis workflows. Perfect for heterogeneity studies, cell type identification, and developmental biology research.
 
-### [DNA Sequencing (DNA-seq)](./DNAseq.pdf?raw=true)
+### [DNA Sequencing (DNA-seq)](./DNAseq.pdf)
 Expert recommendations for whole genome sequencing (WGS), whole exome sequencing (WES), and targeted sequencing approaches. Covers variant calling strategies, coverage requirements, quality metrics, and germline vs. somatic variant detection considerations.
 
-### [ChIP-seq, CUT&RUN, and CUT&Tag](./ChIPseq_CUTNRUN_CUTNTag.pdf?raw=true)
+### [ChIP-seq, CUT&RUN, and CUT&Tag](./ChIPseq_CUTNRUN_CUTNTag.pdf)
 Detailed guidelines for chromatin profiling experiments, including traditional ChIP-seq and newer low-input methods like CUT&RUN and CUT&Tag. Includes antibody validation tips, sequencing depth guidance, and peak calling analysis strategies for transcription factor binding and histone modification studies.
 
-### [Spatial Transcriptomics Omics](./Spatial.pdf?raw=true)
+### [Spatial Transcriptomics Omics](./Spatial.pdf)
 Navigate the exciting field of spatial transcriptomics and proteomics with expert guidance on technology selection (Visium, Xenium, CosMx, etc.), sample preparation requirements, experimental design considerations, and spatial analysis workflows. Essential for tissue architecture studies and microenvironment research.
 
 ---
